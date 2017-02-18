@@ -1,0 +1,16 @@
+---------------------------------------------
+Database:
+SYS/SYSTEM = weblogic1
+---------------------------------------------
+WLS 11g:
+User: weblogic
+pass: weblogic1
+localhost:7001/console
+localhost:7001/sbconsole
+localhost:7001/em
+---------------------------------------------
+WLS 12G
+user: weblogic
+pass. weblogic1
+port: 7101
+port ssl: 7102
